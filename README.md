@@ -34,7 +34,7 @@ The detailed problem statement for this competition can be downloaded [here](fil
 
 **Code Submission**:
 
-Please send your submission file (a zip file containing source codes, team information, etc.) directly to chenxianqi12@nudt.edu.cn.
+Please send your submission file (a zip file containing source codes, team information, etc.) directly to chenxianqi12@nudt.edu.cn. The code preparation should follow the style and format of the code example [here]().
 
 **Important Dates**:
 
