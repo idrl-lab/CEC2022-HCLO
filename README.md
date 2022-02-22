@@ -23,7 +23,7 @@ As shown in Figure 1, the design variables of this problem are their two-dimensi
 
 **Problem Statements and codes**:
 
-The detailed problem statement for this competition can be downloaded [here](files/problem_statement_0211.pdf). Codes for evaluating four public test problems are supplied with two versions ([MATLAB](files/code_matlab_0211.zip) and [Python](files/code_python_0211.zip)). Accordingly, submissions of MATLAB or Python source codes are both acceptable.
+The detailed problem statement for this competition can be downloaded [here](files/problem_statement_0211.pdf). Codes for evaluating four public test problems are supplied with two versions ([MATLAB](files/code_matlab_0222.rar) and [Python](files/code_python_0222.zip)). Accordingly, submissions of MATLAB or Python source codes are both acceptable.
 
 **Rules**:
 
@@ -34,11 +34,11 @@ The detailed problem statement for this competition can be downloaded [here](fil
 
 **Code Submission**:
 
-Please send your submission file (a zip file containing source codes, team information, etc.) directly to chenxianqi12@nudt.edu.cn. The code preparation should follow the style and format of the code example [here]().
+Please send your submission file (a zip file containing source codes, team information, etc.) directly to chenxianqi12@nudt.edu.cn. The code preparation should follow the style and format of the code example （[MATLAB](files/code_matlab_example_0222.zip) and [Python](files/code_python_example_0222.zip)）.
 
 **Important Dates**:
 
-Deadline of code submission: **May 1st, 2022**
+Deadline of code submission: **May 1, 2022**
 
 CEC 2022 Conference: **July 18-23, 2022**
 
