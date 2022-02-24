@@ -37,6 +37,11 @@ window.downloadSubmit = function () {
   const institution = document.getElementById("Institution").value;
   const email = document.getElementById("Email").value;
 
+  if (!name || !institution || !email) {
+    alert("Please fill in the required fields");
+    return;
+  }
+
   const formData = new FormData();
   formData.append("name", name);
   formData.append("institution", institution);
