@@ -23,7 +23,7 @@ As shown in Figure 1, the design variables of this problem are their two-dimensi
 
 **Problem Statements and codes**:
 
-The detailed problem statement for this competition can be downloaded [here](files/problem_statement_0211.pdf). Codes for evaluating four public test problems are supplied with two versions ([MATLAB](files/code_matlab_0222.rar) and [Python](files/code_python_0222.zip)). Accordingly, submissions of MATLAB or Python source codes are both acceptable.
+The detailed problem statement for this competition can be downloaded <a href="javascript:void(0)" onclick="downloadFile(this.dataset)" data-filename="problem_statement_0211.pdf" data-src="files/problem_statement_0211.pdf">here</a>. Codes for evaluating four public test problems are supplied with two versions (<a href="javascript:void(0)" onclick="downloadFile(this.dataset)" data-filename="code_matlab_0222.rar" data-src="files/code_matlab_0222.rar">MATLAB</a> and <a href="javascript:void(0)" onclick="downloadFile(this.dataset)" data-filename="code_python_0222.zip" data-src="files/code_python_0222.zip">Python</a>). Accordingly, submissions of MATLAB or Python source codes are both acceptable.
 
 **Rules**:
 
@@ -34,7 +34,7 @@ The detailed problem statement for this competition can be downloaded [here](fil
 
 **Code Submission**:
 
-Please send your submission file (a zip file containing source codes, team information, etc.) directly to chenxianqi12@nudt.edu.cn. The code preparation should follow the style and format of the code example （[MATLAB](files/code_matlab_example_0222.zip) and [Python](files/code_python_example_0222.zip)）.
+Please send your submission file (a zip file containing source codes, team information, etc.) directly to chenxianqi12@nudt.edu.cn. The code preparation should follow the style and format of the code example （<a href="javascript:void(0)" onclick="downloadFile(this.dataset)" data-filename="code_matlab_example_0222.zip" data-src="files/code_matlab_example_0222.zip">MATLAB</a> and <a href="javascript:void(0)" onclick="downloadFile(this.dataset)" data-filename="code_python_example_0222.zip" data-src="files/code_python_example_0222.zip">Python</a>）.
 
 **Important Dates**:
 
