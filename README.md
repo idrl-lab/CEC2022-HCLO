@@ -54,4 +54,4 @@ Handing Wang, School of Artificial Intelligence, Xidian University, China (Email
 
 ---
 
-If you have further questions, please do not hesitate to contact us by Email (chenxianqi12@nudt.edu.cn or other organizers).
+If you have further questions, please do not hesitate to contact us by Email (chenxianqi12@nudt.edu.cn or other organizers), or move to our [ISSUE BOARD](https://github.com/idrl-lab/CEC2022-HCLO/issues) for our competition.
