@@ -51,7 +51,7 @@ window.downloadSubmit = function () {
   const email_re =
     /^[A-Za-z\d]+([-_.][A-Za-z\d]+)*@([A-Za-z\d]+[-.])+[A-Za-z\d]{2,4}$/;
   if (!email_re.test(email)) {
-    alert("The mailbox format is incorrect");
+    alert("The Email format is incorrect");
     return;
   }
 
