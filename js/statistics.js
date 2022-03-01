@@ -23,11 +23,17 @@ axios
     console.log(error);
   });
 
+window.hasSubmit = false;
+
 window.downloadFile = function (dataset) {
   console.log(dataset);
-  const modal = document.getElementById("modal");
-  modal.style.display = "flex";
   window.fileDataset = dataset;
+  if (!window.hasSubmit) {
+    const modal = document.getElementById("modal");
+    modal.style.display = "flex";
+  } else {
+    window.downloadSubmit();
+  }
 };
 
 window.downloadSubmit = function () {
@@ -59,6 +65,7 @@ window.downloadSubmit = function () {
 
   modal.style.display = "none";
   window.open(window.fileDataset.src);
+  window.hasSubmit = true;
 };
 
 window.closeModal = function () {
