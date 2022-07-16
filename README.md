@@ -1,6 +1,6 @@
 # CEC’2022 Competition on Heat Pipe-Constrained Component Layout Optimization
 
-**<span style="color: red">Important Announcement</span>:**
+**<span style="color: red">Important Announcement:</span>**
 
 Thank you all for your participation in our CEC2022 HCLO competition! After a comprehensive evaluation in our private test problem 5, we would like to announce the final result here. Congratulations to winners!
 
