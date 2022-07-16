@@ -33,9 +33,7 @@ Results will be officially announced in the competition session of WCCI2022 on 2
 | 19   | MSSADE         | Tongli He, Han Huang                                         | School of Software Engineering,  South China University of Technology | 163.6667 | Nan      | 18073469 | 0     | 0     | 0        |
 | 20   | FDB_COLSHADE   | Keke Jin , Qian Chen , Aihua Yin                             | Jiangxi University Of Finance  And Economics                 |    0     | Nan      | 27862225 | 0     | 0     | 9868.235 |
 
-
-
-----
+<hr style="height: 20px">
 
 The performance of electronic devices is significantly influenced by the placement of its components. For example, an increasing number of electronic components are required to be installed within a small size of device space (such as print-circuit boards), thus easily causing a severe heat concentration. An irreversible device damage would probably happen under over-high temperature if their positions are not carefully arranged. Therefore, it raises an important practical engineering-driven optimization problem, the component layout optimization (CLO) problem. The objective of this problem is to maximize the thermal performance by optimizing the layout scheme of components while satisfying some necessary design constraints (including non-overlapping constraints, system centroid constraint, etc.). To obtain the global optimal component layout design, population-based evolutionary algorithms show their unique advantages over than gradient-based algorithms. However, the complexity in such problems still poses great challenges to common evolutionary optimization algorithms.
 
